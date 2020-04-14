@@ -1,0 +1,15 @@
+C:\Users\LiuKeluo\Desktop\Water\Water\bin\Debug\Water.exe.config
+C:\Users\LiuKeluo\Desktop\Water\Water\bin\Debug\Water.exe
+C:\Users\LiuKeluo\Desktop\Water\Water\bin\Debug\Water.pdb
+C:\Users\LiuKeluo\Desktop\Water\Water\obj\Debug\Water.csprojAssemblyReference.cache
+C:\Users\LiuKeluo\Desktop\Water\Water\obj\Debug\MainWindow.g.cs
+C:\Users\LiuKeluo\Desktop\Water\Water\obj\Debug\App.g.cs
+C:\Users\LiuKeluo\Desktop\Water\Water\obj\Debug\Water_MarkupCompile.cache
+C:\Users\LiuKeluo\Desktop\Water\Water\obj\Debug\Water_MarkupCompile.lref
+C:\Users\LiuKeluo\Desktop\Water\Water\obj\Debug\MainWindow.baml
+C:\Users\LiuKeluo\Desktop\Water\Water\obj\Debug\Water.g.resources
+C:\Users\LiuKeluo\Desktop\Water\Water\obj\Debug\Water.Properties.Resources.resources
+C:\Users\LiuKeluo\Desktop\Water\Water\obj\Debug\Water.csproj.GenerateResource.cache
+C:\Users\LiuKeluo\Desktop\Water\Water\obj\Debug\Water.csproj.CoreCompileInputs.cache
+C:\Users\LiuKeluo\Desktop\Water\Water\obj\Debug\Water.exe
+C:\Users\LiuKeluo\Desktop\Water\Water\obj\Debug\Water.pdb
